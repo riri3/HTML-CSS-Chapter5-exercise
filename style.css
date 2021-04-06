@@ -21,7 +21,7 @@ nav {
 
 .nav-list {
   text-align: center;
-  padding: 10px auto;
+  padding: 15px auto;
   margin: 0 auto;
 }
 
@@ -33,9 +33,9 @@ nav {
 
 .main {
   width: 800px;
-  height: 700px;
+  margin: 50px auto;
   display: flex;
-  
+  flex-wrap: wrap;
 }
 
 .contents {
@@ -48,84 +48,72 @@ nav {
   width: 200px;
   height: 200px;
   background-color: #e6ffe9;
-  margin: 50px 0px 0px 0px;
 }
 
 .box2 {
   width: 200px;
   height: 200px;
   background-color: #cbffd3;
-  margin: 50px 0px 0px 0px;
 }
 
 .box3 {
   width: 200px;
   height: 200px;
   background-color: #aeffbd;
-  margin: 50px 0px 0px 0px;
 }
 
 .box4 {
   width: 200px;
   height: 200px;
   background-color: #93ffab;
-  margin: 50px 0px 0px 0px;
 }
 
 .box5 {
   width: 200px;
   height: 200px;
   background-color: #f3ffd8;
-  margin: 0px 0px 0px 0px;
 }
 
-.box6{
+.box6 {
   width: 200px;
   height: 200px;
   background-color: #edffbe;
-  margin: 0px 0px 0px 0px;
 }
 
 .box7 {
   width: 200px;
   height: 200px;
   background-color: #e9ffa5;
-  margin: 0px 0px 0px 0px;
 }
 
 .box8 {
   width: 200px;
   height: 200px;
   background-color: #e4ff8d;
-  margin: 0px 0px 0px 0px;
 }
 
 .box9 {
   width: 200px;
   height: 200px;
   background-color: #d9e5ff;
-  margin: 0px 0px 50px 0px;
 }
 
 .box10 {
   width: 200px;
   height: 200px;
   background-color: #bad3ff;
-  margin: 0px 0px 50px 0px;
 }
 
 .box11 {
   width: 200px;
   height: 200px;
   background-color: #a4c6ff;
-  margin: 0px 0px 50px 0px;
 }
 
 .box12 {
   width: 200px;
   height: 200px;
   background-color: #8eb8ff;
-  margin: 0px 0px 50px 0px;
 }
 
 footer {
